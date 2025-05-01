@@ -5,7 +5,7 @@ I'm tracking my progress daily and pushing updates here to stay accountable. �
 
 ## 👨‍💻 My LeetCode Profile
 
-📎 [View My LeetCode Progress](https://leetcode.com/your-username-here)
+https://leetcode.com/u/Robinson_douglas/
 
 ## 📅 Daily Progress
 
