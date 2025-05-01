@@ -9,9 +9,9 @@ https://leetcode.com/u/Robinson_douglas/
 
 ## 📅 Daily Progress
 
-- [x] Day 1 – 2 problems solved
+- [x] Day 1 – 2 problems solved.  
 Leetcode Problem Number 9 - Palindrome Number.  
-Leetcode Problem Number 7 - Reverse an Integer
+Leetcode Problem Number 7 - Reverse an Integer.
 
 - [ ] Day 2 – 2 problems solved
 - [ ] Day 3 – 2 problems solved
