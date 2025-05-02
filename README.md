@@ -13,7 +13,7 @@ https://leetcode.com/u/Robinson_douglas/
 Leetcode Problem Number 9 - Palindrome Number.  
 Leetcode Problem Number 7 - Reverse an Integer.
 
-- [ ] Day 2 – 2 problems solved
+- [x] Day 2 – 2 problems solved
 - [ ] Day 3 – 2 problems solved
 - [ ] Day 4 – 2 problems solved
 - [ ] Day 5 – 2 problems solved
