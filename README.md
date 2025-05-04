@@ -15,7 +15,9 @@ Leetcode Problem Number 7 - Reverse an Integer.
 - [x] Day 2 – 2 problems solved.  
 Leetcode Problem Number 1752 - Check if Array Is Sorted and Rotated.  
 Leetcode Problem Number 26 - Remove Duplicates from Sorted Array.  
-- [ ] Day 3 – 2 problems solved
+- [x] Day 3 – 2 problems solved.  
+Leetcode Problem Number 1838 - Frequency of the Most Frequent Element.  
+Leetcode Problem Number 509 - Fibonacci Number.  
 - [ ] Day 4 – 2 problems solved
 - [ ] Day 5 – 2 problems solved
 - [ ] Day 6 – 2 problems solved
