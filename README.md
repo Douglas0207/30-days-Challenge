@@ -18,7 +18,9 @@ Leetcode Problem Number 26 - Remove Duplicates from Sorted Array.
 - [x] Day 3 – 2 problems solved.  
 Leetcode Problem Number 1838 - Frequency of the Most Frequent Element.  
 Leetcode Problem Number 509 - Fibonacci Number.  
-- [ ] Day 4 – 2 problems solved
+- [x] Day 4 – 2 problems solved.  
+Leetcode Problem Number 1134 - Armstrong Number.  
+Leetcode Problem Number 125 - Valid Palindrome.  
 - [ ] Day 5 – 2 problems solved
 - [ ] Day 6 – 2 problems solved
 - [ ] Day 7 – 2 problems solved
