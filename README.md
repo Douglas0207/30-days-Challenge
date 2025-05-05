@@ -21,7 +21,9 @@ Leetcode Problem Number 509 - Fibonacci Number.
 - [x] Day 4 – 2 problems solved.  
 Leetcode Problem Number 1134 - Armstrong Number.  
 Leetcode Problem Number 125 - Valid Palindrome.  
-- [ ] Day 5 – 2 problems solved
+- [x] Day 5 – 2 problems solved.  
+Leetcode Problem Number 189 - Rotate Array.  
+Leetcode Problem Number 283 - Move Zeros.   
 - [ ] Day 6 – 2 problems solved
 - [ ] Day 7 – 2 problems solved
 - [ ] Day 8 – 2 problems solved
