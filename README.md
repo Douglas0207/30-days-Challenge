@@ -24,7 +24,9 @@ Leetcode Problem Number 125 - Valid Palindrome.
 - [x] Day 5 – 2 problems solved.  
 Leetcode Problem Number 189 - Rotate Array.  
 Leetcode Problem Number 283 - Move Zeros.   
-- [x] Day 6 – 2 problems solved
+- [x] Day 6 – 2 problems solved.  
+Leetcode Problem Number 485 - Max Consecutive Ones.  
+Leetcode Problem Number 268 - Missing Number.  
 - [x] Day 7 – 2 problems solved
 - [ ] Day 8 – 2 problems solved
 - [ ] Day 9 – 2 problems solved
