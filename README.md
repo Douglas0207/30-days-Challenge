@@ -27,8 +27,12 @@ Leetcode Problem Number 283 - Move Zeros.
 - [x] Day 6 – 2 problems solved.  
 Leetcode Problem Number 485 - Max Consecutive Ones.  
 Leetcode Problem Number 268 - Missing Number.  
-- [ ] Day 7 – 2 problems solved
+- [ ] Day 7 – 2 problems solved.  
+Leetcode Problem Number 136 - Single Number.  
+Leetcode Problem Number 1 - Two Sum.  
 - [ ] Day 8 – 2 problems solved
+Leetcode Problem Number
+Leetcode Problem Number 
 - [ ] Day 9 – 2 problems solved
 - [ ] Day 10 – 2 problems solved
 - [ ] Day 11 – 2 problems solved
