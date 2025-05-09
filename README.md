@@ -33,7 +33,7 @@ Leetcode Problem Number 1 - Two Sum.
 - [x] Day 8 – 2 problems solved.  
 Leetcode Problem Number 75 - Sort Colors.  
 Leetcode Problem Number 169 - Majority Element.  
-- [ ] Day 9 – 2 problems solved
+- [x] Day 9 – 2 problems solved
 - [ ] Day 10 – 2 problems solved
 - [ ] Day 11 – 2 problems solved
 - [ ] Day 12 – 2 problems solved
