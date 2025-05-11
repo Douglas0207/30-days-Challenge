@@ -40,8 +40,8 @@ Leetcode Problem Number 121 - Maximum Profit
 Leetcode Problem Number 2149 - Rearrange in Correct Order
 Leetcode Problem Number 31 - Next Permutation
 - [x] Day 11 – 2 problems solved
-Leetcode Problem Number 128 - Majority Element.
-Leetcode Problem Number 73 - Majority Element. 
+Leetcode Problem Number 128 - Longest Consecutive Sequence
+Leetcode Problem Number 73 - Matrix to Zero
 - [ ] Day 12 – 2 problems solved
 - [ ] Day 13 – 2 problems solved
 - [ ] Day 14 – 2 problems solved
