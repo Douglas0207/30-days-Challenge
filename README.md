@@ -42,13 +42,27 @@ Leetcode Problem Number 31 - Next Permutation.
 - [x] Day 11 – 2 problems solved.  
 Leetcode Problem Number 128 - Longest Consecutive Sequence.  
 Leetcode Problem Number 73 - Matrix to Zero.  
-- [ ] Day 12 – 2 problems solved
-- [ ] Day 13 – 2 problems solved
-- [ ] Day 14 – 2 problems solved
-- [ ] Day 15 – 2 problems solved
-- [ ] Day 16 – 2 problems solved
-- [ ] Day 17 – 2 problems solved
-- [ ] Day 18 – 2 problems solved
+- [x] Day 12 – 2 problems solved.  
+Leetcode Problem Number 48 - Rotate Image.  
+Leetcode Problem Number 54 - Spiral Matrix.  
+- [x] Day 13 – 2 problems solved.
+Leetcode Problem Number 560 - Subarray Sum Equals K.  
+Leetcode Problem Number 704 - Binary Search.  
+- [x] Day 14 – 2 problems solved.  
+Leetcode Problem Number 35 - Search Insert Position.  
+Leetcode Problem Number 34 - Find First and Last Position of Element in Sorted Array.  
+- [x] Day 15 – 2 problems solved.  
+Leetcode Problem Number 33 - Search in Rotated Sorted Array.  
+Leetcode Problem Number 81 - Search in Rotated Sorted Array - II.  
+- [x] Day 16 – 2 problems solved.  
+Leetcode Problem Number 153 - Find minimum in Rotated Sorted Array.  
+Leetcode Problem Number 540 - Single Element in a Sorted Array.  
+- [x] Day 17 – 2 problems solved.  
+Leetcode Problem Number 162 - Find Peak Element.  
+Leetcode Problem Number 875 - Koko Eating Banans.  
+- [x] Day 18 – 2 problems solved.  
+Leetcode Problem Number 1482 - Minimum Numbers of Days to Make m Bouquets.  
+Leetcode Problem Number 1283 - Find the Smallest Divisor Given a Threshold.  
 - [ ] Day 19 – 2 problems solved
 - [ ] Day 20 – 2 problems solved
 - [ ] Day 21 – 2 problems solved
