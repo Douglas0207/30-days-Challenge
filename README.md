@@ -63,8 +63,11 @@ Leetcode Problem Number 875 - Koko Eating Banans.
 - [x] Day 18 – 2 problems solved.  
 Leetcode Problem Number 1482 - Minimum Numbers of Days to Make m Bouquets.  
 Leetcode Problem Number 1283 - Find the Smallest Divisor Given a Threshold.  
-- [x] Day 19 – 2 problems solved
-- [x] Day 20 – 2 problems solved
+- [x] Day 19 – 2 problems solved.
+Capacity to Ship Packages Within D Days.
+Kth Missing Positive Number.
+- [x] Day 20 – 2 problems solved.
+Split Array Largest Sum
 - [x] Day 21 – 2 problems solved
 - [x] Day 22 – 2 problems solved
 - [x] Day 23 – 2 problems solved
