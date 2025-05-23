@@ -70,6 +70,8 @@ Kth Missing Positive Number.
 Split Array Largest Sum
 Minimize Max Distance to Gas Station
 - [x] Day 21 – 2 problems solved
+Median of Two Sorted Arrays.
+Search a 2D Matrix.
 - [x] Day 22 – 2 problems solved
 - [x] Day 23 – 2 problems solved
 - [ ] Day 24 – 2 problems solved
