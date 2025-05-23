@@ -68,6 +68,7 @@ Capacity to Ship Packages Within D Days.
 Kth Missing Positive Number.
 - [x] Day 20 – 2 problems solved.
 Split Array Largest Sum
+Minimize Max Distance to Gas Station
 - [x] Day 21 – 2 problems solved
 - [x] Day 22 – 2 problems solved
 - [x] Day 23 – 2 problems solved
