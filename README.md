@@ -73,9 +73,17 @@ Minimize Max Distance to Gas Station.
 Median of Two Sorted Arrays.
 Search a 2D Matrix.
 - [x] Day 22 – 2 problems solved
+Search in a 2D Matrix - II
+Find a Peak Element
 - [x] Day 23 – 2 problems solved
-- [ ] Day 24 – 2 problems solved
-- [ ] Day 25 – 2 problems solved
+Remove Outermost Parentheses
+Reverse Words in a String 
+- [x] Day 24 – 2 problems solved
+Largest Odd Number in String
+Longest Common Prefix
+- [x] Day 25 – 2 problems solved
+Isomorphic Strings
+Rotate String
 - [ ] Day 26 – 2 problems solved
 - [ ] Day 27 – 2 problems solved
 - [ ] Day 28 – 2 problems solved
