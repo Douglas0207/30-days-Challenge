@@ -63,27 +63,27 @@ Leetcode Problem Number 875 - Koko Eating Banans.
 - [x] Day 18 – 2 problems solved.  
 Leetcode Problem Number 1482 - Minimum Numbers of Days to Make m Bouquets.  
 Leetcode Problem Number 1283 - Find the Smallest Divisor Given a Threshold.  
-- [x] Day 19 – 2 problems solved.
-Capacity to Ship Packages Within D Days.
-Kth Missing Positive Number.
-- [x] Day 20 – 2 problems solved.
-Split Array Largest Sum
-Minimize Max Distance to Gas Station.
-- [x] Day 21 – 2 problems solved.
-Median of Two Sorted Arrays.
-Search a 2D Matrix.
-- [x] Day 22 – 2 problems solved
-Search in a 2D Matrix - II
-Find a Peak Element
-- [x] Day 23 – 2 problems solved
-Remove Outermost Parentheses
-Reverse Words in a String 
-- [x] Day 24 – 2 problems solved
-Largest Odd Number in String
-Longest Common Prefix
-- [x] Day 25 – 2 problems solved
-Isomorphic Strings
-Rotate String
+- [x] Day 19 – 2 problems solved.  
+Leetcode Problem Number 1011 - Capacity to Ship Packages Within D Days.  
+Leetcode Problem Number 1539 - Kth Missing Positive Number.  
+- [x] Day 20 – 2 problems solved.  
+Leetcode Problem Number 410 - Split Array Largest Sum.  
+Leetcode Problem Number 774 - Minimize Max Distance to Gas Station/Book Allocation.  
+- [x] Day 21 – 2 problems solved.  
+Leetcode Problem Number 4 - Median of Two Sorted Arrays.  
+Leetcode Problem Number 74 - Search a 2D Matrix.  
+- [x] Day 22 – 2 problems solved.  
+Leetcode Problem Number 240 - Search in a 2D Matrix - II.  
+Leetcode Problem Number 1901 - Find a Peak Element.  
+- [x] Day 23 – 2 problems solved.  
+Leetcode Problem Number 1021 - Remove Outermost Parentheses.  
+Leetcode Problem Number 151 - Reverse Words in a String.  
+- [x] Day 24 – 2 problems solved.  
+Leetcode Problem Number 1903 - Largest Odd Number in String.  
+Leetcode Problem Number 14 - Longest Common Prefix.  
+- [x] Day 25 – 2 problems solved.  
+Leetcode Problem Number 205 - Isomorphic Strings.  
+Leetcode Problem Number 796 - Rotate String.  
 - [ ] Day 26 – 2 problems solved
 - [ ] Day 27 – 2 problems solved
 - [ ] Day 28 – 2 problems solved
