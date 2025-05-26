@@ -85,7 +85,7 @@ Leetcode Problem Number 14 - Longest Common Prefix.
 Leetcode Problem Number 205 - Isomorphic Strings.  
 Leetcode Problem Number 796 - Rotate String.  
 - [x] Day 26 – 2 problems solved
-- [ ] Day 27 – 2 problems solved
+- [x] Day 27 – 2 problems solved
 - [ ] Day 28 – 2 problems solved
 - [ ] Day 29 – 2 problems solved
 - [ ] Day 30 – 2 problems solved
