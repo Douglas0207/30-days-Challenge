@@ -89,16 +89,16 @@ Leetcode Problem Number 242 - Valid Anagram.
 Leetcode Problem Number 451 - Sort Characters By Frequency.  
 - [x] Day 27 – 2 problems solved.  
 Leetcode Problem Number 1614 - Maximum Nesting Depth of the Parentheses.  
-Leetcode Problem Number 13 - Roman to Integer
-- [x] Day 28 – 2 problems solved
-Leetcode Problem Number 8 - String to Integer (atoi)
-Leetcode Problem Number 5 - Longest Palindromic Substring
-- [x] Day 29 – 2 problems solved
-Leetcode Problem Number 1781 - Sum of Beauty of All Substrings
-Leetcode Problem Number 151 - Reverse Words in a String
-- [x] Day 30 – 2 problems solved
-Leetcode Problem Number 118 - Pascal's Triangle
-Leetcode Problem Number 229 - Majority Element II
+Leetcode Problem Number 13 - Roman to Integer.  
+- [x] Day 28 – 2 problems solved.  
+Leetcode Problem Number 8 - String to Integer (atoi).  
+Leetcode Problem Number 5 - Longest Palindromic Substring.  
+- [x] Day 29 – 2 problems solved.  
+Leetcode Problem Number 1781 - Sum of Beauty of All Substrings.  
+Leetcode Problem Number 151 - Reverse Words in a String.  
+- [x] Day 30 – 2 problems solved.  
+Leetcode Problem Number 118 - Pascal's Triangle.  
+Leetcode Problem Number 229 - Majority Element II.  
 
 ---
 
