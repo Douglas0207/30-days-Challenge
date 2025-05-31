@@ -86,10 +86,10 @@ Leetcode Problem Number 205 - Isomorphic Strings.
 Leetcode Problem Number 796 - Rotate String.  
 - [x] Day 26 – 2 problems solved.  
 Leetcode Problem Number 242. Valid Anagram
-Leetcode Problem Number 205 - Isomorphic Strings.  
+Leetcode Problem Number 451. Sort Characters By Frequency
 - [x] Day 27 – 2 problems solved
-Leetcode Problem Number 205 - Isomorphic Strings.
-Leetcode Problem Number 205 - Isomorphic Strings.
+Leetcode Problem Number 1614. Maximum Nesting Depth of the Parentheses
+Leetcode Problem Number 13. Roman to Integer
 - [ ] Day 28 – 2 problems solved
 Leetcode Problem Number 205 - Isomorphic Strings.
 Leetcode Problem Number 205 - Isomorphic Strings.
