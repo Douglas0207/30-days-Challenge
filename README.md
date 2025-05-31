@@ -102,6 +102,22 @@ Leetcode Problem Number 229 - Majority Element II.
 
 ---
 
-### 📊 Total Progress: **2 / 60 Problems Solved**
+### 📊 Total Progress: **60 / 60 Problems Solved**
 
 Let’s crush this challenge! 🔥
+
+
+
+
+##🏁 Challenge Completed!
+
+today (May 31st), I proudly completed my self-initiated 60 LeetCode problems challenge that I began exactly a month ago.
+This journey wasn't easy — it demanded consistency, late nights, and the discipline to show up daily no matter what.
+
+From strengthening my DSA skills to building a habit of solving problems every single day, this challenge shaped me in more ways than one. 💻📈
+I sacrificed sleep, pushed through difficult days, and kept going. And today, I stand on the other side of it — stronger and more confident in my problem-solving journey. 🙌
+
+Thank you to everyone who kept me motivated.
+This is just the beginning! 🚀
+
+
