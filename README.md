@@ -95,9 +95,9 @@ Leetcode Problem Number 8. String to Integer (atoi)
 Leetcode Problem Number 5. Longest Palindromic Substring
 - [x] Day 29 – 2 problems solved
 Leetcode Problem Number 1781. Sum of Beauty of All Substrings
-Leetcode Problem Number 205 - Isomorphic Strings.
+Leetcode Problem Number 151. Reverse Words in a String
 - [x] Day 30 – 2 problems solved
-Leetcode Problem Number 205 - Isomorphic Strings.
+Leetcode Problem Number 118. Pascal's Triangle
 Leetcode Problem Number 205 - Isomorphic Strings.
 
 ---
