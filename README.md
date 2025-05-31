@@ -82,17 +82,23 @@ Leetcode Problem Number 151 - Reverse Words in a String.
 Leetcode Problem Number 1903 - Largest Odd Number in String.  
 Leetcode Problem Number 14 - Longest Common Prefix.  
 - [x] Day 25 – 2 problems solved.  
-  
+Leetcode Problem Number 205 - Isomorphic Strings.  
 Leetcode Problem Number 796 - Rotate String.  
-- [x] Day 26 – 2 problems solved.
-Leetcode Problem Number 205 - Isomorphic Strings.
+- [x] Day 26 – 2 problems solved.  
+Leetcode Problem Number 242. Valid Anagram
 Leetcode Problem Number 205 - Isomorphic Strings.  
 - [x] Day 27 – 2 problems solved
 Leetcode Problem Number 205 - Isomorphic Strings.
 Leetcode Problem Number 205 - Isomorphic Strings.
 - [ ] Day 28 – 2 problems solved
+Leetcode Problem Number 205 - Isomorphic Strings.
+Leetcode Problem Number 205 - Isomorphic Strings.
 - [ ] Day 29 – 2 problems solved
+Leetcode Problem Number 205 - Isomorphic Strings.
+Leetcode Problem Number 205 - Isomorphic Strings.
 - [ ] Day 30 – 2 problems solved
+Leetcode Problem Number 205 - Isomorphic Strings.
+Leetcode Problem Number 205 - Isomorphic Strings.
 
 ---
 
