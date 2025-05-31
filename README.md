@@ -90,13 +90,13 @@ Leetcode Problem Number 451. Sort Characters By Frequency
 - [x] Day 27 – 2 problems solved
 Leetcode Problem Number 1614. Maximum Nesting Depth of the Parentheses
 Leetcode Problem Number 13. Roman to Integer
-- [ ] Day 28 – 2 problems solved
+- [x] Day 28 – 2 problems solved
+Leetcode Problem Number 8. String to Integer (atoi)
+Leetcode Problem Number 5. Longest Palindromic Substring
+- [x] Day 29 – 2 problems solved
+Leetcode Problem Number 1781. Sum of Beauty of All Substrings
 Leetcode Problem Number 205 - Isomorphic Strings.
-Leetcode Problem Number 205 - Isomorphic Strings.
-- [ ] Day 29 – 2 problems solved
-Leetcode Problem Number 205 - Isomorphic Strings.
-Leetcode Problem Number 205 - Isomorphic Strings.
-- [ ] Day 30 – 2 problems solved
+- [x] Day 30 – 2 problems solved
 Leetcode Problem Number 205 - Isomorphic Strings.
 Leetcode Problem Number 205 - Isomorphic Strings.
 
