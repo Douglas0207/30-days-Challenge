@@ -1,4 +1,4 @@
-# 🚀 60 LeetCode Challenge Tr
+# 🚀 60 LeetCode Challenge Tra
 
 Welcome to my self-challenge to solve **60 LeetCode problems**!  
 I'm tracking my progress daily and pushing updates here to stay accountable. 💪
